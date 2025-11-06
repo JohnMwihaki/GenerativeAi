@@ -1,0 +1,12 @@
+jaclang
+requests
+gitpython
+python-dotenv
+tree_sitter
+tree-sitter-python
+openai
+
+
+
+
+
